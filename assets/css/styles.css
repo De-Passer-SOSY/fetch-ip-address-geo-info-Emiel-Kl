@@ -1,0 +1,30 @@
+body {
+    background-color: lightgray;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin-top: 50px;
+}
+
+main{
+    border-radius: 5px;
+    margin: auto;
+    padding: 20px;
+    width: 50%;
+    background-color: white;
+}
+
+.dataTable {
+
+}
+
+#button {
+    border: 1px solid lightgray;
+    border-radius: 5px;
+    background-color: white;
+    align-items: center;
+    padding: 5px;
+    text-align: center;
+}
+
+a {
+    align-items: center;
+}
